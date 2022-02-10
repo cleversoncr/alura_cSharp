@@ -1,0 +1,15 @@
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/bin/Debug/net6.0/02_criandoVariaveis
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/bin/Debug/net6.0/02_criandoVariaveis.deps.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/bin/Debug/net6.0/02_criandoVariaveis.runtimeconfig.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/bin/Debug/net6.0/02_criandoVariaveis.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/bin/Debug/net6.0/ref/02_criandoVariaveis.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/bin/Debug/net6.0/02_criandoVariaveis.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/obj/Debug/net6.0/02_criandoVariaveis.csproj.AssemblyReference.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/obj/Debug/net6.0/02_criandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/obj/Debug/net6.0/02_criandoVariaveis.AssemblyInfoInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/obj/Debug/net6.0/02_criandoVariaveis.AssemblyInfo.cs
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/obj/Debug/net6.0/02_criandoVariaveis.csproj.CoreCompileInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/obj/Debug/net6.0/02_criandoVariaveis.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/obj/Debug/net6.0/ref/02_criandoVariaveis.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/obj/Debug/net6.0/02_criandoVariaveis.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/02_criandoVariaveis/obj/Debug/net6.0/02_criandoVariaveis.genruntimeconfig.cache

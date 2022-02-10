@@ -1,0 +1,15 @@
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/bin/Debug/net6.0/01_projeto
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/bin/Debug/net6.0/01_projeto.deps.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/bin/Debug/net6.0/01_projeto.runtimeconfig.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/bin/Debug/net6.0/01_projeto.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/bin/Debug/net6.0/ref/01_projeto.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/bin/Debug/net6.0/01_projeto.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/obj/Debug/net6.0/01_projeto.csproj.AssemblyReference.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/obj/Debug/net6.0/01_projeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/obj/Debug/net6.0/01_projeto.AssemblyInfoInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/obj/Debug/net6.0/01_projeto.AssemblyInfo.cs
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/obj/Debug/net6.0/01_projeto.csproj.CoreCompileInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/obj/Debug/net6.0/01_projeto.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/obj/Debug/net6.0/ref/01_projeto.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/obj/Debug/net6.0/01_projeto.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/01_projeto/obj/Debug/net6.0/01_projeto.genruntimeconfig.cache
