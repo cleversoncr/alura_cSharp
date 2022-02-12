@@ -1,0 +1,15 @@
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/obj/Debug/net6.0/04_criandoVariavesPontoFlutuante.csproj.AssemblyReference.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/obj/Debug/net6.0/04_criandoVariavesPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/obj/Debug/net6.0/04_criandoVariavesPontoFlutuante.AssemblyInfoInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/obj/Debug/net6.0/04_criandoVariavesPontoFlutuante.AssemblyInfo.cs
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/obj/Debug/net6.0/04_criandoVariavesPontoFlutuante.csproj.CoreCompileInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/bin/Debug/net6.0/04_criandoVariavesPontoFlutuante
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/bin/Debug/net6.0/04_criandoVariavesPontoFlutuante.deps.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/bin/Debug/net6.0/04_criandoVariavesPontoFlutuante.runtimeconfig.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/bin/Debug/net6.0/04_criandoVariavesPontoFlutuante.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/bin/Debug/net6.0/ref/04_criandoVariavesPontoFlutuante.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/bin/Debug/net6.0/04_criandoVariavesPontoFlutuante.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/obj/Debug/net6.0/04_criandoVariavesPontoFlutuante.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/obj/Debug/net6.0/ref/04_criandoVariavesPontoFlutuante.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/obj/Debug/net6.0/04_criandoVariavesPontoFlutuante.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/04_criandoVariavesPontoFlutuante/obj/Debug/net6.0/04_criandoVariavesPontoFlutuante.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/obj/Debug/net6.0/05_conversoesEOutrosTiposNumericos.csproj.AssemblyReference.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/obj/Debug/net6.0/05_conversoesEOutrosTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/obj/Debug/net6.0/05_conversoesEOutrosTiposNumericos.AssemblyInfoInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/obj/Debug/net6.0/05_conversoesEOutrosTiposNumericos.AssemblyInfo.cs
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/obj/Debug/net6.0/05_conversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/bin/Debug/net6.0/05_conversoesEOutrosTiposNumericos
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/bin/Debug/net6.0/05_conversoesEOutrosTiposNumericos.deps.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/bin/Debug/net6.0/05_conversoesEOutrosTiposNumericos.runtimeconfig.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/bin/Debug/net6.0/05_conversoesEOutrosTiposNumericos.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/bin/Debug/net6.0/ref/05_conversoesEOutrosTiposNumericos.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/bin/Debug/net6.0/05_conversoesEOutrosTiposNumericos.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/obj/Debug/net6.0/05_conversoesEOutrosTiposNumericos.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/obj/Debug/net6.0/ref/05_conversoesEOutrosTiposNumericos.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/obj/Debug/net6.0/05_conversoesEOutrosTiposNumericos.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/05_conversoesEOutrosTiposNumericos/obj/Debug/net6.0/05_conversoesEOutrosTiposNumericos.genruntimeconfig.cache
