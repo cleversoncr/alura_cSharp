@@ -1,0 +1,15 @@
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/bin/Debug/net6.0/07_atribuicaoDeVariaveis
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/bin/Debug/net6.0/07_atribuicaoDeVariaveis.deps.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/bin/Debug/net6.0/07_atribuicaoDeVariaveis.runtimeconfig.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/bin/Debug/net6.0/07_atribuicaoDeVariaveis.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/bin/Debug/net6.0/ref/07_atribuicaoDeVariaveis.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/bin/Debug/net6.0/07_atribuicaoDeVariaveis.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/obj/Debug/net6.0/07_atribuicaoDeVariaveis.csproj.AssemblyReference.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/obj/Debug/net6.0/07_atribuicaoDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/obj/Debug/net6.0/07_atribuicaoDeVariaveis.AssemblyInfoInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/obj/Debug/net6.0/07_atribuicaoDeVariaveis.AssemblyInfo.cs
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/obj/Debug/net6.0/07_atribuicaoDeVariaveis.csproj.CoreCompileInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/obj/Debug/net6.0/07_atribuicaoDeVariaveis.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/obj/Debug/net6.0/ref/07_atribuicaoDeVariaveis.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/obj/Debug/net6.0/07_atribuicaoDeVariaveis.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/07_atribuicaoDeVariaveis/obj/Debug/net6.0/07_atribuicaoDeVariaveis.genruntimeconfig.cache

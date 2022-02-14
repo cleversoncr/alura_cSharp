@@ -1,0 +1,15 @@
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/bin/Debug/net6.0/06_caracteresETextos
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/bin/Debug/net6.0/06_caracteresETextos.deps.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/bin/Debug/net6.0/06_caracteresETextos.runtimeconfig.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/bin/Debug/net6.0/06_caracteresETextos.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/bin/Debug/net6.0/ref/06_caracteresETextos.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/bin/Debug/net6.0/06_caracteresETextos.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/obj/Debug/net6.0/06_caracteresETextos.csproj.AssemblyReference.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/obj/Debug/net6.0/06_caracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/obj/Debug/net6.0/06_caracteresETextos.AssemblyInfoInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/obj/Debug/net6.0/06_caracteresETextos.AssemblyInfo.cs
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/obj/Debug/net6.0/06_caracteresETextos.csproj.CoreCompileInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/obj/Debug/net6.0/06_caracteresETextos.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/obj/Debug/net6.0/ref/06_caracteresETextos.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/obj/Debug/net6.0/06_caracteresETextos.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/06_caracteresETextos/obj/Debug/net6.0/06_caracteresETextos.genruntimeconfig.cache
