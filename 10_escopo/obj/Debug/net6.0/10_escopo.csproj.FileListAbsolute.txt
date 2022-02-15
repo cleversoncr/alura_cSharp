@@ -1,0 +1,15 @@
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/bin/Debug/net6.0/10_escopo
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/bin/Debug/net6.0/10_escopo.deps.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/bin/Debug/net6.0/10_escopo.runtimeconfig.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/bin/Debug/net6.0/10_escopo.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/bin/Debug/net6.0/ref/10_escopo.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/bin/Debug/net6.0/10_escopo.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/obj/Debug/net6.0/10_escopo.csproj.AssemblyReference.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/obj/Debug/net6.0/10_escopo.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/obj/Debug/net6.0/10_escopo.AssemblyInfoInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/obj/Debug/net6.0/10_escopo.AssemblyInfo.cs
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/obj/Debug/net6.0/10_escopo.csproj.CoreCompileInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/obj/Debug/net6.0/10_escopo.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/obj/Debug/net6.0/ref/10_escopo.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/obj/Debug/net6.0/10_escopo.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/10_escopo/obj/Debug/net6.0/10_escopo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/bin/Debug/net6.0/12_switchCase
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/bin/Debug/net6.0/12_switchCase.deps.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/bin/Debug/net6.0/12_switchCase.runtimeconfig.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/bin/Debug/net6.0/12_switchCase.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/bin/Debug/net6.0/ref/12_switchCase.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/bin/Debug/net6.0/12_switchCase.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/obj/Debug/net6.0/12_switchCase.csproj.AssemblyReference.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/obj/Debug/net6.0/12_switchCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/obj/Debug/net6.0/12_switchCase.AssemblyInfoInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/obj/Debug/net6.0/12_switchCase.AssemblyInfo.cs
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/obj/Debug/net6.0/12_switchCase.csproj.CoreCompileInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/obj/Debug/net6.0/12_switchCase.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/obj/Debug/net6.0/ref/12_switchCase.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/obj/Debug/net6.0/12_switchCase.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/12_switchCase/obj/Debug/net6.0/12_switchCase.genruntimeconfig.cache

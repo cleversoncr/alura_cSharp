@@ -1,0 +1,15 @@
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/bin/Debug/net6.0/08_condicionais
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/bin/Debug/net6.0/08_condicionais.deps.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/bin/Debug/net6.0/08_condicionais.runtimeconfig.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/bin/Debug/net6.0/08_condicionais.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/bin/Debug/net6.0/ref/08_condicionais.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/bin/Debug/net6.0/08_condicionais.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/obj/Debug/net6.0/08_condicionais.csproj.AssemblyReference.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/obj/Debug/net6.0/08_condicionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/obj/Debug/net6.0/08_condicionais.AssemblyInfoInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/obj/Debug/net6.0/08_condicionais.AssemblyInfo.cs
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/obj/Debug/net6.0/08_condicionais.csproj.CoreCompileInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/obj/Debug/net6.0/08_condicionais.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/obj/Debug/net6.0/ref/08_condicionais.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/obj/Debug/net6.0/08_condicionais.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/08_condicionais/obj/Debug/net6.0/08_condicionais.genruntimeconfig.cache
