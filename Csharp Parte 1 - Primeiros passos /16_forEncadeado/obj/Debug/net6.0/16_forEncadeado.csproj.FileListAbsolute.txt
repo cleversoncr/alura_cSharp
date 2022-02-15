@@ -1,0 +1,15 @@
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/bin/Debug/net6.0/16_forEncadeado
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/bin/Debug/net6.0/16_forEncadeado.deps.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/bin/Debug/net6.0/16_forEncadeado.runtimeconfig.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/bin/Debug/net6.0/16_forEncadeado.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/bin/Debug/net6.0/ref/16_forEncadeado.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/bin/Debug/net6.0/16_forEncadeado.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/obj/Debug/net6.0/16_forEncadeado.csproj.AssemblyReference.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/obj/Debug/net6.0/16_forEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/obj/Debug/net6.0/16_forEncadeado.AssemblyInfoInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/obj/Debug/net6.0/16_forEncadeado.AssemblyInfo.cs
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/obj/Debug/net6.0/16_forEncadeado.csproj.CoreCompileInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/obj/Debug/net6.0/16_forEncadeado.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/obj/Debug/net6.0/ref/16_forEncadeado.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/obj/Debug/net6.0/16_forEncadeado.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/16_forEncadeado/obj/Debug/net6.0/16_forEncadeado.genruntimeconfig.cache

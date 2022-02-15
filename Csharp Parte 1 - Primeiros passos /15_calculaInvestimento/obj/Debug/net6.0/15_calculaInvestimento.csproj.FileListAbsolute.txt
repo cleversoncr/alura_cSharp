@@ -1,0 +1,15 @@
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/bin/Debug/net6.0/15_calculaInvestimento
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/bin/Debug/net6.0/15_calculaInvestimento.deps.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/bin/Debug/net6.0/15_calculaInvestimento.runtimeconfig.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/bin/Debug/net6.0/15_calculaInvestimento.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/bin/Debug/net6.0/ref/15_calculaInvestimento.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/bin/Debug/net6.0/15_calculaInvestimento.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/obj/Debug/net6.0/15_calculaInvestimento.csproj.AssemblyReference.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/obj/Debug/net6.0/15_calculaInvestimento.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/obj/Debug/net6.0/15_calculaInvestimento.AssemblyInfoInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/obj/Debug/net6.0/15_calculaInvestimento.AssemblyInfo.cs
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/obj/Debug/net6.0/15_calculaInvestimento.csproj.CoreCompileInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/obj/Debug/net6.0/15_calculaInvestimento.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/obj/Debug/net6.0/ref/15_calculaInvestimento.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/obj/Debug/net6.0/15_calculaInvestimento.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/15_calculaInvestimento/obj/Debug/net6.0/15_calculaInvestimento.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/bin/Debug/net6.0/14_calculaPoupanca
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/bin/Debug/net6.0/14_calculaPoupanca.deps.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/bin/Debug/net6.0/14_calculaPoupanca.runtimeconfig.json
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/bin/Debug/net6.0/14_calculaPoupanca.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/bin/Debug/net6.0/ref/14_calculaPoupanca.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/bin/Debug/net6.0/14_calculaPoupanca.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/obj/Debug/net6.0/14_calculaPoupanca.csproj.AssemblyReference.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/obj/Debug/net6.0/14_calculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/obj/Debug/net6.0/14_calculaPoupanca.AssemblyInfoInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/obj/Debug/net6.0/14_calculaPoupanca.AssemblyInfo.cs
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/obj/Debug/net6.0/14_calculaPoupanca.csproj.CoreCompileInputs.cache
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/obj/Debug/net6.0/14_calculaPoupanca.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/obj/Debug/net6.0/ref/14_calculaPoupanca.dll
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/obj/Debug/net6.0/14_calculaPoupanca.pdb
+/home/cleverson.rocha/Workspace/cursos/alura_cSharp/14_calculaPoupanca/obj/Debug/net6.0/14_calculaPoupanca.genruntimeconfig.cache
